@@ -1,1 +1,2 @@
-this is a branch text file added in the branch
+this is a branch text file added in the branch.
+this is new line added in newBranch
