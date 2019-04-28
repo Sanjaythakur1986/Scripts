@@ -1,3 +1,7 @@
 this is a branch text file added in the branch.
+<<<<<<< HEAD
 
 this is added in Master branch
+=======
+this is new line added in newBranch
+>>>>>>> newBranch
