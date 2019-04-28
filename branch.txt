@@ -5,3 +5,4 @@ this is added in Master branch
 =======
 this is new line added in newBranch
 >>>>>>> newBranch
+THis is first commit
